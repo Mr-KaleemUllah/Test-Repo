@@ -1,0 +1,14 @@
+Python
+Python Debugger
+Pylance
+Python Indent v1.18.0 Kevin Rose
+Window Colors
+GitLens — Git supercharged
+Jupyter
+Jupyter Keymap
+Jupyter Notebook Renderers
+Live Server
+Live Share
+Excel Viewer
+Rainbow CSV
+R
